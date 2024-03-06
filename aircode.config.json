@@ -1,0 +1,9 @@
+{
+  "name": "gpt_for_ptenginehelpcenter",
+  "runtime": "node/v18",
+  "region": "US",
+  "envs": [
+    "OPENAI_API_KEY"
+  ],
+  "typescript": false
+}
